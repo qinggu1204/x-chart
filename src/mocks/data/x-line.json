@@ -1,0 +1,57 @@
+{
+  "chartType": "x-line",
+  "columns": [
+    {
+      "type": "x",
+      "field": "course_name",
+      "name": "Course Name"
+    },
+    {
+      "type": "y",
+      "field": "difficulty",
+      "name": "图例"
+    }
+  ],
+  "rows": [
+    {
+      "difficulty": 9408.81,
+      "course_name": "操作系统"
+    },
+    {
+      "difficulty": 8024.02,
+      "course_name": "操作系统"
+    },
+    {
+      "difficulty": 7729.59,
+      "course_name": "概率统计"
+    },
+    {
+      "difficulty": 6430.59,
+      "course_name": "算法"
+    },
+    {
+      "difficulty": 6140.94,
+      "course_name": "数据库"
+    },
+    {
+      "difficulty": 6065.3,
+      "course_name": "计算机网络"
+    },
+    {
+      "difficulty": 6025.71,
+      "course_name": "计组"
+    },
+    {
+      "difficulty": 4780.8,
+      "course_name": "软工"
+    },
+    {
+      "difficulty": 4724.57,
+      "course_name": "计科"
+    },
+    {
+      "difficulty": 4634.27,
+      "course_name": "毛概"
+    }
+  ]
+}

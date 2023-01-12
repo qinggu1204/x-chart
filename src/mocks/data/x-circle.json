@@ -1,0 +1,41 @@
+{
+  "chartType": "x-circle",
+  "columns": [
+    {
+      "type": "x",
+      "field": "post_name",
+      "name": "Top Name"
+    },
+    {
+      "type": "y",
+      "field": "learn_time",
+      "name": "Video learn duration"
+    }
+  ],
+  "rows": [
+    {
+      "learn_time": 9408.81,
+      "post_name": "高等数学"
+    },
+    {
+      "learn_time": 8024.02,
+      "post_name": "计算机组成原理"
+    },
+    {
+      "learn_time": 7729.59,
+      "post_name": "数据结构"
+    },
+    {
+      "learn_time": 6430.59,
+      "post_name": "算法设计"
+    },
+    {
+      "learn_time": 6140.94,
+      "post_name": "操作系统"
+    },
+    {
+      "learn_time": 6065.3,
+      "post_name": "数据库"
+    }
+  ]
+}
